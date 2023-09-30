@@ -1,7 +1,7 @@
-### Hi 👋, I'm Furkan
+###                                                                       Hi 👋, I'm Furkan
 
 # 💫 About Me:
-🔭 I am currently working on C and Data Science.<br>🌱 I’m currently learning C, C++, Python.<br>📫 How to reach me fatihfurkangunay@gmail.com
+🌱 I’m currently learning C, C++, Python.<br>📫 How to reach me fatihfurkangunay@gmail.com
 
 
 ## 🌐 Socials:
