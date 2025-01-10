@@ -1,7 +1,7 @@
 ###                                                                       Hi 👋, I'm Furkan
 
 # 💫 About Me:
-📫 How to reach me fatihfurkangunay@gmail.com
+📫 How to reach me frkngny1012@gmail.com
 
 
 ## 🌐 Socials:
