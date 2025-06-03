@@ -1,7 +1,7 @@
 ###                                                                       Hi 👋, I'm Furkan
 
 # 💫 About Me:
-📫 How to reach me frkngny1012@gmail.com
+📫 Hi, I’m Furkan! I’m an aspiring software developer passionate about AI and machine learning. I began in computer engineering but moved to Ecole 42 Istanbul for a more hands-on approach. There, I’ve worked on C/C++ projects and continuously build my AI/ML skills through online courses and practical projects. My goal is to create innovative AI solutions and, eventually, launch my own tech company. I’m detail-oriented, a team player, and always eager to learn—feel free to connect!
 
 
 ## 🌐 Socials:
