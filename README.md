@@ -23,17 +23,10 @@
 ![XGBoost](https://img.shields.io/badge/XGBoost-43A047?style=for-the-badge&logo=xgboost&logoColor=white) ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-43A047?style=for-the-badge&logo=Model_Evaluation&logoColor=white) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-43A047?style=for-the-badge&logo=Feature_Engineering&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-43A047?style=for-the-badge&logo=Reinforcement_Learning&logoColor=white) ![NLP](https://img.shields.io/badge/NLP-43A047?style=for-the-badge&logo=NLP&logoColor=white) ![Neural Networks](https://img.shields.io/badge/Neural_Networks-43A047?style=for-the-badge&logo=Neural_Networks&logoColor=white) ![CNNs](https://img.shields.io/badge/CNNs-43A047?style=for-the-badge&logo=CNNs&logoColor=black) 
 
 **Development Methods**  
-![Agile](https://img.shields.io/badge/Agile-F06B1A?style=for-the-badge&logo=agile&logoColor=white)  
-![Scrum](https://img.shields.io/badge/Scrum-1F8ACB?style=for-the-badge&logo=scrumalliance&logoColor=white)  
-![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007ACC?style=for-the-badge&logo=apacheserver&logoColor=white)  
-![OOP](https://img.shields.io/badge/OOP-4E9A06?style=for-the-badge&logo=objectivec&logoColor=white)  
+![Agile](https://img.shields.io/badge/Agile-F06B1A?style=for-the-badge&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-1F8ACB?style=for-the-badge&logo=scrumalliance&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007ACC?style=for-the-badge&logo=apacheserver&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-4E9A06?style=for-the-badge&logo=objectivec&logoColor=white)  
 
 **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Kaggle](https://img.shields.io/badge/Kaggle-%237289DA.svg?style=for-the-badge&logo=kaggle&logoColor=white)  
-![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-%237289DA.svg?style=for-the-badge&logo=kaggle&logoColor=white) ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 
 
 # 📊 GitHub Stats:
