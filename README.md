@@ -1,7 +1,9 @@
 ###                                                                       Hi 👋, I'm Furkan
 
 # 💫 About Me:
-📫 Hi, I’m Furkan! I’m an aspiring software developer passionate about AI and machine learning. I began in computer engineering but moved to Ecole 42 Istanbul for a more hands-on approach. There, I’ve worked on C/C++ projects and continuously build my AI/ML skills through online courses and practical projects. My goal is to create innovative AI solutions and, eventually, launch my own tech company. I’m detail-oriented, a team player, and always eager to learn—feel free to connect!
+📫 Hi, I’m Furkan! Software engineer and founder building production systems across mobile, web, backend and desktop platforms.
+I’m the founder and lead engineer behind BeeGünlük, a workforce operations platform available on iOS, Android and Web. My work spans Flutter, React, TypeScript, Node.js, Firebase, payment systems, cloud infrastructure and role-based security.
+I also build native desktop experiences with Tauri and Rust, and have a background in C/C++ systems programming and applied machine learning with Python.
 
 
 ## 🌐 Socials:
