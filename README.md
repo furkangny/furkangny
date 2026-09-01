@@ -1,42 +1,55 @@
-###                                                                       Hi 👋, I'm Furkan
+# Hi, I'm Furkan 👋
 
-# 💫 About Me:
-📫 Hi, I’m Furkan! Software engineer and founder building production systems across mobile, web, backend and desktop platforms.
-I’m the founder and lead engineer behind BeeGünlük, a workforce operations platform available on iOS, Android and Web. My work spans Flutter, React, TypeScript, Node.js, Firebase, payment systems, cloud infrastructure and role-based security.
-I also build native desktop experiences with Tauri and Rust, and have a background in C/C++ systems programming and applied machine learning with Python.
+Software developer and founder building production applications across mobile, web, backend and desktop platforms.
 
+I am the founder and lead developer behind [BeeGünlük](https://beegunluk.com), a workforce operations platform available on iOS, Android and Web. I work across the full product lifecycle, from application architecture and user interfaces to backend services, payments, security, testing and release processes.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkangny) [![Kaggle](https://img.shields.io/badge/Kaggle-%237289DA.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/furykan)
+My background also includes native desktop development, C/C++ systems programming and applied machine learning with Python.
 
-# 💻 Tech Stack:
-## Technical Skills
+## What I work with
 
-**Programming Languages**  
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+**Mobile & Web**  
+Flutter · Dart · Riverpod · React · TypeScript · JavaScript · Vite
 
-**Data & ML**  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Spark SQL](https://img.shields.io/badge/Spark_SQL-EE9224?style=for-the-badge&logo=apachespark&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![PySpark](https://img.shields.io/badge/PySpark-EE9224?style=for-the-badge&logo=apache%20spark&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%2300a6fb.svg?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-0769AD.svg?style=for-the-badge&logo=Seaborn&logoColor=white)  
+**Backend & Cloud**  
+Node.js · Firebase Cloud Functions · Firestore · Firebase Auth · FCM · Storage · Security Rules · REST APIs · Webhooks
 
-**DevOps & OS**  
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logo=githubactions&logoColor=white) ![MLOps](https://img.shields.io/badge/MLOps-009fdb?style=for-the-badge&logo=kubernetes&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+**Desktop & Systems**  
+Tauri · Rust · C · C++ · Unix/Linux · Socket Programming · Concurrency · Docker
 
-**Algorithms**  
-![XGBoost](https://img.shields.io/badge/XGBoost-43A047?style=for-the-badge&logo=xgboost&logoColor=white)  ![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white) ![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-%23013243.svg?style=for-the-badge&logo=Feature_Engineering&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-FCC624?style=for-the-badge&logo=Reinforcement_Learning&logoColor=black) ![NLP](https://img.shields.io/badge/NLP-000000?style=for-the-badge&logo=NLP&logoColor=white) ![Neural Networks](https://img.shields.io/badge/Neural_Networks-43A047?style=for-the-badge&logo=Neural_Networks&logoColor=white) ![CNNs](https://img.shields.io/badge/CNNs-F06B1A?style=for-the-badge&logo=CNNs&logoColor=white) 
+**Data & Machine Learning**  
+Python · pandas · NumPy · scikit-learn · Matplotlib · Seaborn · PySpark · SQL
 
-**Development Methods**  
-![Agile](https://img.shields.io/badge/Agile-F06B1A?style=for-the-badge&logo=agile&logoColor=white) ![Scrum](https://img.shields.io/badge/Scrum-1F8ACB?style=for-the-badge&logo=scrumalliance&logoColor=white) ![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-007ACC?style=for-the-badge&logo=apacheserver&logoColor=white) ![OOP](https://img.shields.io/badge/OOP-4E9A06?style=for-the-badge&logo=objectivec&logoColor=white)  
+**Delivery & Quality**  
+Git · GitHub Actions · CI/CD · Automated Testing · Firebase Emulator Suite · Crashlytics · Google Play Console · App Store Connect
 
-**Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-%237289DA.svg?style=for-the-badge&logo=kaggle&logoColor=white) ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
+## Selected work
 
+### [BeeGünlük](https://beegunluk.com)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=furkangny&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=furkangny&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=furkangny&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+A workforce operations platform connecting employers, staffing agencies and temporary workers. The product includes Flutter applications, React operations panels, Firebase/Node.js backend services, payment workflows, role-based access control, location-verified attendance and automated operational processes.
 
----
-[![](https://visitcount.itsvg.in/api?id=furkangny&icon=0&color=0)](https://visitcount.itsvg.in)
+### [Desktop Pet](https://github.com/furkangny/Desktop-Pet)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+A local-first Windows and macOS desktop companion built with Tauri, Rust, TypeScript and Vite. It includes native transparent windows, system-tray integration, behavioral state machines, physics-based interactions, local reminders and cross-platform packaging.
+
+### [Systems Programming Projects](https://github.com/furkangny?tab=repositories&q=&type=&language=c%2B%2B)
+
+C/C++ projects covering socket programming, Unix processes and signals, multithreading, synchronization, deadlock prevention, parsers and graphics programming.
+
+### [Data Science & Machine Learning](https://github.com/furkangny/Data-Science-And-Machine-Learning)
+
+Applied work covering data preparation, exploratory analysis, regression, classification, ensemble modeling, recommendation systems and data visualization. I am also a Kaggle Legacy Expert with public notebooks and community contributions.
+
+## Background
+
+- Founder & Software Developer at BeeCore Yazılım A.Ş.
+- Completed the 42 Istanbul Core Curriculum
+- Former AI/ML Engineer Intern at CognitiveScale
+- Former volunteer peer tutor at 42 Istanbul
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/furkangny)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/furykan)
+[![Website](https://img.shields.io/badge/BeeGünlük-17324D?style=flat&logo=googlechrome&logoColor=white)](https://beegunluk.com)
